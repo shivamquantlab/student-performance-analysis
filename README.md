@@ -36,3 +36,18 @@ GitHub: https://github.com/shivamquantlab
 ### Subject-wise Average Marks
 
 ![Subject Analysis](subject_analysis.png)
+
+## Key Findings
+
+- Total Students: 8
+- Class Average: 69.79
+- Topper: Priya (91.67)
+- Best Subject: Science (71.62)
+- Weakest Subject: Maths (67.25)
+- Pass Percentage: 87.5%
+
+## Conclusion
+
+This project demonstrates how Python can be used
+to analyze student performance using statistical
+calculations and data visualization.
