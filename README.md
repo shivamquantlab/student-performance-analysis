@@ -30,3 +30,9 @@ The program calculates basic performance indicators using a sample dataset of st
 Shivam Malik
 
 GitHub: https://github.com/shivamquantlab
+
+## Data Visualization
+
+### Subject-wise Average Marks
+
+![Subject Analysis](subject_analysis.png)
