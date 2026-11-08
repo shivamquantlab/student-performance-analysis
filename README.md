@@ -2,7 +2,7 @@
 # Student Performance Analysis
 
 ## Project Overview
-This is a beginner-level Python project focused on statistical analysis of student marks.
+A Python-based statistical analysis pipeline evaluating multi-subject student performance metrics and score distributions.
 
 ## Objectives
 - Calculate average marks.
